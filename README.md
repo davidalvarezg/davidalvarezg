@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David Álvarez
-- 👀 I’m interested in football
+- 👀 I’m interested in football and other sports
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on football data analysis and viz
 - 📫 How to reach me dalvarezg@elpais.es
